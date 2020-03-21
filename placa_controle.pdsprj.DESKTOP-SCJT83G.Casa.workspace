@@ -6,9 +6,9 @@
   <WINDOW type="default" module="ARES"/>
   <WINDOW type="VIEW3D" module="VIEW3D">
    <camera>
-    <position x="-3279075" y="3658047" z="17662748"/>
-    <focus x="-2328106" y="6375175" z="1400992"/>
-    <up x="229632" y="957701" z="173449"/>
+    <position x="-6680947" y="-4073940" z="7280317"/>
+    <focus x="-2920227" y="4940275" z="-40891"/>
+    <up x="155647" y="582824" z="797555"/>
    </camera>
   </WINDOW>
  </FRAME>
